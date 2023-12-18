@@ -4,7 +4,7 @@
   15 Points; General Skills.
 
 ## Description
-  There is a nice program that you can talk to by using this command in a shell: $ nc mercury.picoctf.net 43239, but it doesn't speak English...
+  There is a nice program that you can talk to by using this command in a shell: `$ nc mercury.picoctf.net 43239`, but it doesn't speak English...
 
 ## Solution
   I first connected to the program provided. On connecting, a bunch of numbers were displayed. As per the description, then we have to convert it into English     i.e. characters.
